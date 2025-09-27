@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CosmicSkeptic" tvg-name="Alex O’Connor (Cosmic Skeptic)" group-title="Philosophy",Alex O’Connor (Cosmic Skeptic)
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6h0aT2-8hWQvVWEyGW7hzQ
+
+#EXTINF:-1 tvg-id="TomScott" tvg-name="Tom Scott" group-title="Education",Tom Scott
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A
+
+#EXTINF:-1 tvg-id="Veritasium" tvg-name="Veritasium" group-title="Science",Veritasium
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+
+#EXTINF:-1 tvg-id="TED-Ed" tvg-name="TED-Ed" group-title="Education",TED-Ed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA
+
+#EXTINF:-1 tvg-id="NileRed" tvg-name="NileRed" group-title="Science",NileRed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCFhXFikryT4aFcLkLw2LBLA
+
+#EXTINF:-1 tvg-id="Numberphile" tvg-name="Numberphile" group-title="Math",Numberphile
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A
+
+#EXTINF:-1 tvg-id="Agadmator" tvg-name="Agadmator" group-title="Philosophy",Agadmator
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqddLzGHC7ZpPPHgU5r1J5A
+
+#EXTINF:-1 tvg-id="Kurzgesagt" tvg-name="Kurzgesagt – In a Nutshell" group-title="Science",Kurzgesagt – In a Nutshell
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
+
+#EXTINF:-1 tvg-id="SmarterEveryDay" tvg-name="SmarterEveryDay" group-title="Science",SmarterEveryDay
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA
+
+#EXTINF:-1 tvg-id="Vsauce" tvg-name="Vsauce" group-title="Science",Vsauce
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6nSFpj9HTCZ5t-N3Rm3-HA
+
+#EXTINF:-1 tvg-id="MinutePhysics" tvg-name="MinutePhysics" group-title="Science",MinutePhysics
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUHW94eEFW7hkUMVaZz4eDg
+
+#EXTINF:-1 tvg-id="MinuteEarth" tvg-name="MinuteEarth" group-title="Science",MinuteEarth
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeiYXex_fwgYDonaTcSIk6w
+
+#EXTINF:-1 tvg-id="PBSSpaceTime" tvg-name="PBS Space Time" group-title="Science",PBS Space Time
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7_gcs09iThXybpVgjHZ_7g
+
+#EXTINF:-1 tvg-id="PBSEons" tvg-name="PBS Eons" group-title="History/Science",PBS Eons
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzR-rom72PHN9Zg7RML9EbA
+
+#EXTINF:-1 tvg-id="SciShow" tvg-name="SciShow" group-title="Science",SciShow
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZYTClx2T1of7BRZ86-8fow
+
+#EXTINF:-1 tvg-id="PhysicsGirl" tvg-name="Physics Girl" group-title="Science",Physics Girl
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg
+
+#EXTINF:-1 tvg-id="RealLifeLore" tvg-name="RealLifeLore" group-title="Geography/History",RealLifeLore
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP5tjEmvPItGyLhmjdwP7Ww
+
+#EXTINF:-1 tvg-id="WendoverProductions" tvg-name="Wendover Productions" group-title="Economics/Logistics",Wendover Productions
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ
+
+#EXTINF:-1 tvg-id="HalfAsInteresting" tvg-name="Half as Interesting" group-title="Education",Half as Interesting
+https://www.youtube.com/feeds/videos.xml?channel_id=UCuCkxoKLYO_EQ2GeFtbM_bw
+
+#EXTINF:-1 tvg-id="TheB1M" tvg-name="The B1M" group-title="Engineering/Architecture",The B1M
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6n8I1UDTKP1IWjQMg6_TwA
+
+#EXTINF:-1 tvg-id="PracticalEngineering" tvg-name="Practical Engineering" group-title="Engineering",Practical Engineering
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMOqf8ab-42UUQIdVoKwjlQ
+
+#EXTINF:-1 tvg-id="StandupMaths" tvg-name="Stand-up Maths" group-title="Math",Stand-up Maths
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9yt3wz-6j19RwD5m5f6HSg
+
+#EXTINF:-1 tvg-id="Computerphile" tvg-name="Computerphile" group-title="Tech",Computerphile
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA
+
+#EXTINF:-1 tvg-id="3Blue1Brown" tvg-name="3Blue1Brown" group-title="Math",3Blue1Brown
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+
+#EXTINF:-1 tvg-id="SixtySymbols" tvg-name="Sixty Symbols" group-title="Science",Sixty Symbols
+https://www.youtube.com/feeds/videos.xml?channel_id=UCvBqzzvUBLCs8Y7Axb-jZew
+
+#EXTINF:-1 tvg-id="PeriodicVideos" tvg-name="Periodic Videos" group-title="Chemistry",Periodic Videos
+https://www.youtube.com/feeds/videos.xml?channel_id=UCtESv1e7ntJaLJYKIO1FoYw
+
+#EXTINF:-1 tvg-id="SteveMould" tvg-name="Steve Mould" group-title="Science",Steve Mould
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A
+
+#EXTINF:-1 tvg-id="MarkRober" tvg-name="Mark Rober" group-title="Engineering",Mark Rober
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg
+
+#EXTINF:-1 tvg-id="CGPGrey" tvg-name="CGP Grey" group-title="Education",CGP Grey
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w
+
+#EXTINF:-1 tvg-id="ColdFusion" tvg-name="ColdFusion" group-title="Tech/History",ColdFusion
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4QZ_LsYcvcq7qOsOhpAX4A
+
+#EXTINF:-1 tvg-id="PolyMatter" tvg-name="PolyMatter" group-title="Economics/Geopolitics",PolyMatter
+https://www.youtube.com/feeds/videos.xml?channel_id=UCgNg3vwj3xt7QOrcIDaHdFg
+
+#EXTINF:-1 tvg-id="BrightSide" tvg-name="Bright Side" group-title="Pop-Sci",Bright Side
+https://www.youtube.com/feeds/videos.xml?channel_id=UCH7l09-5H5tU7gY5-So9r0Q
+
+#EXTINF:-1 tvg-id="TierZoo" tvg-name="TierZoo" group-title="Biology",TierZoo
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHsRtomD4twRf5WVHHk-cMw
+
+#EXTINF:-1 tvg-id="PhilosophyTube" tvg-name="Philosophy Tube" group-title="Philosophy",Philosophy Tube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2PA-AKmVpU6NKCGtZq_rKQ
+
+#EXTINF:-1 tvg-id="WiPhi" tvg-name="Wireless Philosophy (Wi-Phi)" group-title="Philosophy",Wireless Philosophy (Wi-Phi)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyJ-6jA2CKzTjVYD8Uba13w
+
+#EXTINF:-1 tvg-id="CrashCourse" tvg-name="CrashCourse (Philosophy)" group-title="Philosophy",CrashCourse (Philosophy)
+https://www.youtube.com/feeds/videos.xml?channel_id=UCX6b17PVsYBQ0ip5gyeme-Q
+
+#EXTINF:-1 tvg-id="OverlySarcastic" tvg-name="Overly Sarcastic Productions" group-title="History/Literature",Overly Sarcastic Productions
+https://www.youtube.com/feeds/videos.xml?channel_id=UCodbH5mUeF-m_BsNueRDjcw
+
+#EXTINF:-1 tvg-id="KingsAndGenerals" tvg-name="Kings and Generals" group-title="History",Kings and Generals
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMmaBzfCCwZ2KqaBJjkj0fw
+
+#EXTINF:-1 tvg-id="HistoryMatters" tvg-name="History Matters" group-title="History",History Matters
+https://www.youtube.com/feeds/videos.xml?channel_id=UC22BdTgxefuvUivrjesETjg
+
+#EXTINF:-1 tvg-id="EpicHistoryTV" tvg-name="Epic History TV" group-title="History",Epic History TV
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeUJFQ_guHDtuMdPTl1G0FQ
+
+#EXTINF:-1 tvg-id="TwoSetViolin" tvg-name="TwoSetViolin" group-title="Ads/Music",TwoSetViolin
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdItQzK5Wqds6Z_F3p9fCXQ
+
+#EXTINF:-1 tvg-id="RoomieOfficial" tvg-name="RoomieOfficial" group-title="Ads/Music",RoomieOfficial
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9obdDRxQkmn_4YpcBMTYLw
+
+#EXTINF:-1 tvg-id="PostmodernJukebox" tvg-name="Postmodern Jukebox" group-title="Ads/Music",Postmodern Jukebox
+https://www.youtube.com/feeds/videos.xml?channel_id=UCeR7vTzxEY2kQxKao8j3z8Q
+
+#EXTINF:-1 tvg-id="Pomplamoose" tvg-name="Pomplamoose" group-title="Ads/Music",Pomplamoose
+https://www.youtube.com/feeds/videos.xml?channel_id=UCM6o0QPyGf0ks8jxfGujnHg
+
+#EXTINF:-1 tvg-id="CaravanPalace" tvg-name="Caravan Palace" group-title="Ads/Music",Caravan Palace
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbzk65ykHlnkOVk2e97TwrQ
+
+#EXTINF:-1 tvg-id="LoFiGirl" tvg-name="LoFi Girl" group-title="Ads/Music",LoFi Girl
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSJ4gkVC6NrvII8umztf0Ow
+
+#EXTINF:-1 tvg-id="JellesMarbleRuns" tvg-name="Jelle’s Marble Runs" group-title="Fun/Quirky",Jelle’s Marble Runs
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYJdpnjuSWVOLgGT9fIzL0g
+
+#EXTINF:-1 tvg-id="Tom7" tvg-name="Tom7" group-title="Fun/Quirky",Tom7
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0kbXUlFDaNyoMIroRQb1qA
+
+#EXTINF:-1 tvg-id="ThoughtEmporium" tvg-name="The Thought Emporium" group-title="Science/DIY",The Thought Emporium
+https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ
+
+#EXTINF:-1 tvg-id="AppliedScience" tvg-name="Applied Science" group-title="Science/DIY",Applied Science
+https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg
